@@ -33,3 +33,4 @@ custom-permission-claim-handler/target/
 custom-password-generator/target/
 custom-user-operation-event-listener/target/
 custom-grant-type/target/
+custom-basic-authenticator-for-force-password-otp/target/
